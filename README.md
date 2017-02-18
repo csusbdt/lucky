@@ -1,3 +1,10 @@
+## Requirements
+
+To checkout and run this project, you need to setup your system as follows.
+
+* Have the most recent free version of Unity3D installed.
+* Install [Git LFS](https://git-lfs.github.com/)
+
 ## Project Setup Notes
 
 We used the following documentation to setup this project in a github repo.
